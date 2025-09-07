@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-This project analyzes a **Bike Buyers dataset** to identify customer demographics and factors influencing bike purchases. The goal is to uncover insights using data cleaning, pivot table analysis, and dashboard visualization. The findings help businesses target the right customers and design effective marketing strategies.
+This project analyzes a **Bike Buyers dataset** to identify customer demographics and factors influencing bike purchases. The goal is to uncover insights using data cleaning, pivot table analysis, and dashboard visualization uing Excel. The findings help businesses target the right customers and design effective marketing strategies.
 
 ---
 
