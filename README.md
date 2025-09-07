@@ -1,4 +1,4 @@
-# 🚴‍♂️ Bike Buyers Analysis Dashboard
+# 🚴‍♂️ Bike Buyers Analysis Dashboard using Excel
 
 ## 📌 Project Overview
 
