@@ -67,7 +67,7 @@ Bike Purchase Analysis Dashboard
 
 ## ⚡ How to Use
 
-1. Open `Bike Purchase Analysis Dashboard.xlsx`.
+1. Open `Bike_Purchase_Analysis_Dashboard.xlsx`.
 2. Explore sheets in the following order:
 
    * **bike\_buyers** → Raw dataset.
